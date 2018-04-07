@@ -1,0 +1,28 @@
+{
+  "name": "ai-bot-dialogflow",
+  "version": "1.0.0",
+  "description": "dialogflow chatbot\u001b[D\u001b[Dwebhook for dialogflow fulfillment",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogonzalez29/ai-bot-dialogflow.git"
+  },
+  "author": "Daniel Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ogonzalez29/ai-bot-dialogflow/issues"
+  },
+  "homepage": "https://github.com/ogonzalez29/ai-bot-dialogflow#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.12"
+  }
+}
